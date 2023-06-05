@@ -19,7 +19,7 @@ System.out.print("Enter the customer dob(dd/mm/yyyy): ");
 
 date=input.next();
 }
-public void display()
+public void  display()
 
 {
 
